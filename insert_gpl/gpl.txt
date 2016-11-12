@@ -1,5 +1,5 @@
  * Author(s): 
- *    Sergio Paracuellos <sparacuellos@lock-linux.com>
+ *    Sergio Paracuellos <sergio.paracuellos@gmail.com>
  *   
  *    This program is free software; you can redistribute it and/or
  *    modify it under the terms of the GNU General Public License as
