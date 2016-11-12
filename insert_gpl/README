@@ -1,0 +1,10 @@
+= Introduction =
+This script is put gpl license in the header of a desired 
+group of files with same extension inside a directory.
+
+= Usage =
+./insert_gpl <directory> <extension>
+
+Ex. ./insert_gpl src cpp
+
+
